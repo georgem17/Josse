@@ -1,0 +1,32 @@
+body{
+  font-family: 'Roboto', sans-serif;
+}
+
+.carousel-inner img{
+  width: 20px;
+}
+
+.prese{
+  padding: 25px;
+}
+
+.prese h2{
+  text-align: center;
+}
+
+.prese p{
+  text-align: center;
+}
+
+footer  img{
+  width: 100px;
+}
+
+footer{
+  text-align: center;
+  padding: 20px;
+}
+
+footer .ins{
+  width: 75px;
+}
